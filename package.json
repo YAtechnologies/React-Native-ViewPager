@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zbtang/React-Native-ViewPager.git"
+    "url": "git+https://github.com/YAtechnologies/React-Native-ViewPager.git"
   },
   "dependencies": {
     "@react-native-community/viewpager": "^4.2.3"
